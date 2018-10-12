@@ -1,3 +1,31 @@
+*.iml
+*/target/*
+*/*jpr
+*/*iml
+.idea
+**.idea
+.classpath
+.project
+.settings
+**/.classpath
+**/.project
+**/.settings
+**/*.iml
+/*/target/
+/*/*.iml
+/target/
+**/.externalToolBuilders
+**/maven-eclipse.xml
+.externalToolBuilders
+maven-eclipse.xml
+***.log
+**/*/target
+*/data
+data/*
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+
 # Source : https://github.com/github/gitignore
 # Maven, Node, Python, Rails
 
